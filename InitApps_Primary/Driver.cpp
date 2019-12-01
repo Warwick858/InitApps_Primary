@@ -1,12 +1,12 @@
 // ******************************************************************************************************************
-//  This file is part of Swagger_Example.
+//  This file is part of InitApps.
 //
-//  Swagger_Example - simple example to demonstrate swagger UI.
-//  Copyright(C) 2019  James LoForti
+//  InitApps - program that executes other programs.
+//  Copyright(C)  2019  James LoForti
 //  Contact Info: jamesloforti@gmail.com
 //
-//  Swagger_Example is free software: you can redistribute it and/or modify
-//  it under the terms of the GNU Affero General Public License as published by
+//  InitApps is free software: you can redistribute it and/or modify
+//  it under the terms of the GNU General Public License as published by
 //  the Free Software Foundation, either version 3 of the License, or
 //  (at your option) any later version.
 //
@@ -15,7 +15,7 @@
 //  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
 //  GNU General Public License for more details.
 //
-//  You should have received a copy of the GNU Affero General Public License
+//  You should have received a copy of the GNU General Public License
 //  along with this program.If not, see<https://www.gnu.org/licenses/>.
 //									     ____.           .____             _____  _______   
 //									    |    |           |    |    ____   /  |  | \   _  \  
